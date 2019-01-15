@@ -1,5 +1,5 @@
 #include <iostream>
-#include "banker.h"
+#include "Algorithm.h"
 
 using std::cout;
 using std::cin;
